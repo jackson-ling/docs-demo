@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
    base: '/docs-demo/',
-  title: "知识文档@jackson凌",
+  title: "知识文档@jackson凌哈哈",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
